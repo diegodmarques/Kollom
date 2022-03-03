@@ -49,7 +49,7 @@ h2 {
 
 .bg-imagem {
     height: 40vw;
-    background-image: url(/images/KOLLOM3.png);
+    background-image: url('../images/KOLLOM3.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px 60px;
